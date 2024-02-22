@@ -1,18 +1,18 @@
 {
   "version": "0.1.0",
-  "description": "An example Snap written in TypeScript.",
-  "proposedName": "TypeScript Example",
+  "description": "Demo Snap for KRNL",
+  "proposedName": "KRNL demo FaaS",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+    "url": "https://github.com/gabkov/krnl-demo-snap.git"
   },
   "source": {
-    "shasum": "34qa2Xfb819u398dc98d+BOCDVUkdodjh8JFZ5Y3q0g=",
+    "shasum": "EZYYXQiGp/1V3svcWaMatX3X1Bc84yz8uesiIZs0W8g=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
         "iconPath": "images/icon.svg",
-        "packageName": "snap",
+        "packageName": "krnl-demo-snap",
         "registry": "https://registry.npmjs.org/"
       }
     }
