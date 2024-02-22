@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Demo Snap for KRNL",
   "proposedName": "KRNL demo FaaS",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/gabkov/krnl-demo-snap.git"
   },
   "source": {
-    "shasum": "EZYYXQiGp/1V3svcWaMatX3X1Bc84yz8uesiIZs0W8g=",
+    "shasum": "BBbKCdN3KK7CpWNEubaESFp4Svg5lZymu4BRooocvDg=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
