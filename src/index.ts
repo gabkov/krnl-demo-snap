@@ -25,10 +25,10 @@ export const onRpcRequest: OnRpcRequestHandler = async ({
               'What FaaS you would like to run along with your transaction?',
             ),
             text(
-              'Please choose from KYT or KYC and provide them with a space between them',
+              'Choose from PE, KYT or KYC and provide them with a space between them',
             ),
           ]),
-          placeholder: 'eg.: KYT KYC',
+          placeholder: 'eg.: PE KYT KYC',
         },
       });
     default:
